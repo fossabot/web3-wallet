@@ -1,6 +1,7 @@
 # Web3 Wallet
 
 [![CI](https://github.com/web3-wallet/web3-wallet/actions/workflows/ci.yml/badge.svg)](https://github.com/web3-wallet/web3-wallet/actions/workflows/ci.yml) [![Deploy](https://github.com/web3-wallet/web3-wallet/actions/workflows/deploy.yml/badge.svg)](https://github.com/web3-wallet/web3-wallet/actions/workflows/deploy.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fweb3-wallet.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fweb3-wallet?ref=badge_shield)
 
 <p align="center">
   <a href="https://web3-wallet.github.io/web3-wallet" target="_blank">
@@ -113,3 +114,6 @@ pnpm example-react
 ## License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fweb3-wallet.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fweb3-wallet?ref=badge_large)
